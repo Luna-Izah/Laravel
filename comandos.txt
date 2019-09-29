@@ -1,0 +1,2 @@
+php artisan (comando): (opção)
+	       make  :  model
